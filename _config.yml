@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Mr_Onion's Blog
+title: 道法项目-暂存站
 subtitle: ''
 description: ''
 keywords:
-author: Mr_Onion
+author: 
 language: zh-CN
 timezone: ''
 
@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:SuperUseryjh/SuperUseryjh.github.io.git
+  repository: git@github.com:class8-project-32/class8-project-32.github.io.git
   branch: main
